@@ -1,1 +1,3 @@
 # carrot-backend
+
+npm start
